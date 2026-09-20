@@ -6,18 +6,20 @@ I work with Python and MATLAB on signal processing, scientific data analysis, an
 
 ## Selected projects
 
-### [Heart Sound Analysis](https://github.com/abufanasa-dotcom/heart-sound-analysis)
+### [German Day-Ahead Electricity Price Forecasting](https://github.com/abufanasa-dotcom/german-power-price-forecasting)
 
-Acoustic feature extraction and murmur classification with identity-grouped validation. The final model achieved 64.12% balanced accuracy on an internal held-out test set. Results, limitations, and reproduction steps are documented.
+Leakage-aware forecasting of German day-ahead electricity prices and negative-price risk using SMARD data, LightGBM, and Logistic Regression. Final models were frozen before an untouched six-month holdout evaluation; includes 71 automated tests and an interactive Streamlit dashboard.
 
 ### [Wind Turbine Performance](https://github.com/abufanasa-dotcom/wind-turbine-performance)
 
 Analysis of turbine operating data, power prediction, and review of potential underperformance, with an interactive Streamlit dashboard.
 
+### [Heart Sound Analysis](https://github.com/abufanasa-dotcom/heart-sound-analysis)
+
+Acoustic feature extraction and murmur classification with identity-grouped validation. Results, limitations, and reproduction steps are documented.
 ## Tools
 
-Python · MATLAB · NumPy · pandas · SciPy · scikit-learn · Matplotlib · Git
-
+Python · MATLAB · pandas · NumPy · scikit-learn · LightGBM · Streamlit · Matplotlib · Git
 ## Contact
 
 Based in Oldenburg, Germany. Open to engineering and data roles and willing to relocate.
