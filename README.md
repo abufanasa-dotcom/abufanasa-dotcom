@@ -2,9 +2,9 @@
 
 Engineering Physics graduate and MSc student at the University of Oldenburg, Germany.
 
-I work with **Python and MATLAB on energy systems, optimization, scientific data analysis, machine learning, and signal processing**, with a focus on reproducible engineering workflows and data-driven technical problem solving.
+I work with **Python and MATLAB on energy systems, optimization, scientific data analysis, machine learning, acoustics, and signal processing**, with a focus on reproducible engineering workflows and data-driven technical problem solving.
 
-My current portfolio focuses particularly on **battery energy storage, electricity markets, renewable-energy analytics, machine learning, and acoustic signal processing**.
+My current portfolio focuses on **battery energy storage, electricity markets, renewable-energy analytics, industrial acoustics, measurement engineering, machine learning, and signal processing**.
 
 ## Selected Projects
 
@@ -38,6 +38,18 @@ A wind-speed and direction model reduced MAE by **13.14% versus the baseline** o
 
 ---
 
+### [Industrial Noise Exposure & Acoustic Quality Assessment](https://github.com/abufanasa-dotcom/industrial-noise-exposure)
+
+Engineering analysis of historical **NIOSH workplace noise measurements** using reproducible data cleaning, occupational-noise exposure assessment, acoustic measurement QA, standards-aware comparison, and investigation-level robustness analysis.
+
+The project analyzes **807 personal dosimetry measurements** and **582 area sound-level measurements**. Among **758 valid NIOSH analytical-dose records**, the median dose is **174.20%**, with **477 / 758 (62.93%)** at or above the documented 100% NIOSH dose criterion.
+
+The workflow also compares NIOSH and OSHA dosimetry, validates extreme exposure measurements, separates personal and stationary area measurements, evaluates investigation-level replication, and provides a carefully scoped German occupational-noise context. Includes **89 automated tests** and a read-only Streamlit engineering dashboard.
+
+**Live Demo:** Coming soon
+
+---
+
 ### [Heart Sound Analysis](https://github.com/abufanasa-dotcom/heart-sound-analysis)
 
 Acoustic signal-processing and machine-learning study using phonocardiogram recordings, engineered audio features, identity-grouped data splitting, and frozen held-out evaluation.
@@ -57,8 +69,8 @@ scikit-learn · LightGBM · Feature Engineering · Regression · Classification 
 **Energy Systems & Optimization**  
 Battery Energy Storage Systems (BESS) · Renewable Energy Analytics · Electricity Markets · MILP · SciPy/HiGHS · Energy-System Modeling
 
-**Signal Processing & Engineering**  
-Acoustic Signal Processing · Spectral Analysis · Measurement Data Analysis · MATLAB/Simulink
+**Acoustics, Signal Processing & Measurement Engineering**  
+Industrial Acoustics · Occupational Noise · Acoustic Signal Processing · Measurement Engineering · Acoustic QA · Spectral Analysis · Measurement Data Analysis · MATLAB/Simulink
 
 **Visualization & Development**  
 Streamlit · Matplotlib · Git · GitHub · LaTeX · Excel
@@ -69,13 +81,14 @@ I am particularly interested in opportunities involving:
 
 - Energy systems and battery storage
 - Renewable-energy and power-system analytics
-- Engineering data analysis
+- Engineering and scientific data analysis
+- Industrial acoustics and measurement engineering
 - Scientific Python and machine learning
 - Optimization and technical modeling
 - Signal processing and measurement technology
 
 ## Contact
 
-Based in **Oldenburg, Germany**. Open to **engineering, energy, data, and technical analytics roles** and willing to relocate.
+Based in **Oldenburg, Germany**. Open to **engineering, energy, acoustics, measurement, data, and technical analytics roles** and willing to relocate.
 
 [LinkedIn](https://www.linkedin.com/in/ahmedabufanas/)
