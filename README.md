@@ -8,6 +8,16 @@ My current portfolio focuses on **battery energy storage, electricity markets, r
 
 ## Selected Projects
 
+### [WindConnect – VPP Connection & Fault Diagnostics](https://github.com/abufanasa-dotcom/windconnect)
+
+Independent local wind-turbine simulation with **Python, real Modbus TCP communication, fault diagnostics, and a German Streamlit dashboard**.
+
+Distinguishes **connection loss, stale data, and invalid measurements**, records recovery events, and includes **60 passing automated tests**, reproducible fault scenarios, screenshots, and German technical documentation. Runs locally with synthetic measurements; no connection to real turbines or emsys systems.
+
+**[Project overview](https://abufanasa-dotcom.github.io/en/projects/windconnect.html)** · **[Deutsche Projektvorstellung](https://abufanasa-dotcom.github.io/projects/windconnect.html)**
+
+---
+
 ### [German BESS Dispatch & Degradation Analytics](https://github.com/abufanasa-dotcom/bess-dispatch-analytics)
 
 Techno-economic analysis of a **1 MW / 2 MWh Battery Energy Storage System** operating in the German/Luxembourg day-ahead electricity market using validated SMARD data, battery physics, and **SciPy/HiGHS mixed-integer linear programming (MILP)**.
