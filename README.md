@@ -8,11 +8,11 @@ My current portfolio focuses on **battery energy storage, electricity markets, r
 
 ## Selected Projects
 
-### [WindConnect – VPP Connection & Fault Diagnostics](https://github.com/abufanasa-dotcom/windconnect)
+### [WindConnect – Modbus TCP Monitoring and Fault Diagnostics](https://github.com/abufanasa-dotcom/windconnect)
 
-Independent local wind-turbine simulation with **Python, real Modbus TCP communication, fault diagnostics, and a German Streamlit dashboard**.
+Independent wind-turbine simulation with **real server-side Modbus TCP exchanges, rule-based fault diagnostics, and isolated bilingual (German/English) Streamlit sessions**.
 
-Distinguishes **connection loss, stale data, and invalid measurements**, records recovery events, and includes **60 passing automated tests**, reproducible fault scenarios, screenshots, and German technical documentation. Runs locally with synthetic measurements; no connection to real turbines or emsys systems.
+Separately monitors **communication status, measurement validity, and data freshness**. Includes reproducible connection-loss, stale-data and invalid-measurement scenarios, recovery events, **66 passing automated tests**, genuine screenshots in both languages, and matched German/English technical terminology. All turbine measurements are synthetic; no real VPP integration, turbine control, or emsys connection.
 
 **[Project overview](https://abufanasa-dotcom.github.io/en/projects/windconnect.html)** · **[Deutsche Projektvorstellung](https://abufanasa-dotcom.github.io/projects/windconnect.html)**
 
