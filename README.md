@@ -14,6 +14,8 @@ Independent wind-turbine simulation with **real server-side Modbus TCP exchanges
 
 Separately monitors **communication status, measurement validity, and data freshness**. Includes reproducible connection-loss, stale-data and invalid-measurement scenarios, recovery events, **66 passing automated tests**, genuine screenshots in both languages, and matched German/English technical terminology. All turbine measurements are synthetic; no real VPP integration, turbine control, or emsys connection.
 
+**[Live dashboard (EN)](https://windconnect-monitoring.streamlit.app/?lang=English)** · **[Dashboard (DE)](https://windconnect-monitoring.streamlit.app/)**
+
 **[Project overview](https://abufanasa-dotcom.github.io/en/projects/windconnect.html)** · **[Deutsche Projektvorstellung](https://abufanasa-dotcom.github.io/projects/windconnect.html)**
 
 ---
